@@ -1,3 +1,4 @@
 1. Decide pizza
 2. Locate phone
 3. Place order
+4. wait

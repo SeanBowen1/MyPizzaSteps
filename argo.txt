@@ -2,3 +2,5 @@
 2. Locate phone
 3. Place order
 4. wait
+5. Pay
+6. Consume
